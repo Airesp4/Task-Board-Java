@@ -10,7 +10,7 @@ import com.dio.persistence.entity.BoardEntity;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
-public class BoardDao {
+public class BoardDAO {
     
     private final Connection connection;
 
